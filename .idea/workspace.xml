@@ -5,40 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06c6ffdb-fbac-445f-9a40-a49cedcc467c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Spring-Boot-Course-By-Jan-Stamer.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/menu_item_requests.http" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/src/main/java/com/freddys_bbq/DemoApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/src/main/java/com/freddys_bbq/MenuController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/src/main/java/com/freddys_bbq/MenuItemController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/src/main/java/com/freddys_bbq/MenuItemRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/src/main/java/com/freddys_bbq/OrderController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/src/main/java/com/freddys_bbq/OrderRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/src/main/java/com/freddys_bbq/model/MenuItem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/src/main/java/com/freddys_bbq/model/Order.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/src/main/java/com/freddys_bbq/model/OrderRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/src/main/resources/static/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/src/main/resources/templates/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/src/main/resources/templates/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/src/main/resources/templates/order-success.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/src/main/resources/templates/order.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/src/test/java/com/freddys_bbq/DemoApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/src/test/java/com/freddys_bbq/MenuControllerTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/menu_item_requests.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/src/main/java/com/freddys_bbq_frontend/DeliveryController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/src/main/java/com/freddys_bbq_frontend/DemoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/src/main/java/com/freddys_bbq_frontend/MenuController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/src/main/java/com/freddys_bbq_frontend/OrderController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/src/main/java/com/freddys_bbq_frontend/config/AppConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/src/main/java/com/freddys_bbq_frontend/model/Delivery.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/src/main/java/com/freddys_bbq_frontend/model/MenuItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/src/main/java/com/freddys_bbq_frontend/model/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/src/main/resources/static/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/src/main/resources/templates/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/src/main/resources/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/src/main/resources/templates/order-info.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/src/main/resources/templates/order.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/src/test/java/com/freddys_bbq_frontend/DemoApplicationTests.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,10 +75,10 @@
     &quot;accountId&quot;: &quot;f01b5c18-57a5-42cd-9140-7ce2075f6a8c&quot;
   }
 }</component>
-  <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
-  <component name="KubernetesApiProvider"><![CDATA[{
-  "isMigrated": true
-}]]></component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -107,7 +97,7 @@
     "git-widget-placeholder": "main",
     "go.import.settings.migrated": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Stepan/IdeaProjects/Spring-Boot-Course-By-Jan-Stamer/Backend/delivery",
+    "last_opened_file_path": "C:/Users/Stepan/IdeaProjects/Spring-Boot-Course-By-Jan-Stamer",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -185,6 +175,7 @@
       <workItem from="1739768756839" duration="114000" />
       <workItem from="1739768882036" duration="85000" />
       <workItem from="1739768974960" duration="565000" />
+      <workItem from="1740073827541" duration="7000" />
     </task>
     <servers />
   </component>
