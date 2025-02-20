@@ -4,31 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06c6ffdb-fbac-445f-9a40-a49cedcc467c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Frontend/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/menu_item_requests.http" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/src/main/java/com/freddys_bbq_frontend/DeliveryController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/src/main/java/com/freddys_bbq_frontend/DemoApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/src/main/java/com/freddys_bbq_frontend/MenuController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/src/main/java/com/freddys_bbq_frontend/OrderController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/src/main/java/com/freddys_bbq_frontend/config/AppConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/src/main/java/com/freddys_bbq_frontend/model/Delivery.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/src/main/java/com/freddys_bbq_frontend/model/MenuItem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/src/main/java/com/freddys_bbq_frontend/model/Order.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/src/main/resources/static/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/src/main/resources/templates/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/src/main/resources/templates/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/src/main/resources/templates/order-info.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/src/main/resources/templates/order.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frontend/src/test/java/com/freddys_bbq_frontend/DemoApplicationTests.java" beforeDir="false" />
+    <list default="true" id="06c6ffdb-fbac-445f-9a40-a49cedcc467c" name="Changes" comment="Changed Port for intern frontend to 4300">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/delivery/src/main/java/com/freddys_bbq_delivery/DeliveryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/delivery/src/main/java/com/freddys_bbq_delivery/DeliveryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/Intern/src/main/java/com/freddys_bbq_frontend/DeliveryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/Intern/src/main/java/com/freddys_bbq_frontend/DeliveryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/Intern/src/main/resources/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/Intern/src/main/resources/templates/order-info.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/Intern/src/main/resources/templates/order.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -175,12 +157,43 @@
       <workItem from="1739768756839" duration="114000" />
       <workItem from="1739768882036" duration="85000" />
       <workItem from="1739768974960" duration="565000" />
-      <workItem from="1740073827541" duration="7000" />
+      <workItem from="1740073827541" duration="1272000" />
     </task>
+    <task id="LOCAL-00001" summary="Seperate Frontend in Customer and intern.&#10;Currently just duplicated this code.">
+      <option name="closed" value="true" />
+      <created>1740073948203</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1740073948203</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Renamed gradle names">
+      <option name="closed" value="true" />
+      <created>1740074024196</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1740074024196</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Changed Port for intern frontend to 4300">
+      <option name="closed" value="true" />
+      <created>1740074502894</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1740074502894</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Seperate Frontend in Customer and intern.&#10;Currently just duplicated this code." />
+    <MESSAGE value="Renamed gradle names" />
+    <MESSAGE value="Changed Port for intern frontend to 4300" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed Port for intern frontend to 4300" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
